@@ -58,6 +58,55 @@ button {
     background-color : lightpink;
     height : 500px;
 }
+.random {
+    background-color: white;
+    padding : 8px;
+    height : 500px;
+}
+h2 {
+    text-align : center;
+    padding : 8px;
+}
+.caption {
+    display : flex;
+    justify-content : center;
+}
+.image-box {
+    display : flex;
+    flex-direction : column;
+    width : 300px;
+    align-items : center;
+}
+.qoute {
+    background-color: #e5e7eb;
+    padding : 8px;
+    height : 300px;
+}
+.ins {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    padding-top : 100px;
+
+}
+.thor {
+    text-align : center;
+    padding-left : 180px;
+}
+.box {
+    background-color: white;
+    
+}
+.action {
+    background-color: lightblue;
+    padding : 8px;
+    margin : 80px;
+    border-radius : 8px;
+}
+.group {
+    display : flex;
+}
+
  
 
 
